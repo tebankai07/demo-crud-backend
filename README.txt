@@ -1,10 +1,10 @@
-# 🧩 Demo CRUD Backend (Spring Boot 3 + MySQL)
+#  Demo CRUD Backend (Spring Boot 3 + MySQL)
 
 Backend del sistema con autenticación JWT, control de roles (`SUPER_ADMIN`, `USER`) y CRUD de Productos y Categorías.
 
 ---
 
-## 🚀 Tecnologías
+##  Tecnologías
 - Java 17+
 - Spring Boot 3 (Web, Security, Data JPA)
 - MySQL / MariaDB
@@ -13,7 +13,7 @@ Backend del sistema con autenticación JWT, control de roles (`SUPER_ADMIN`, `US
 
 ---
 
-## ⚙️ Configuración
+##  Configuración
 
 1) Crear base de datos local:
 ```sql
