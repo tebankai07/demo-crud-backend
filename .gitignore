@@ -1,0 +1,10 @@
+/target
+/build
+/.idea
+/.gradle
+/.mvn
+*.iml
+*.log
+application-*.yml
+application-*.properties
+*.DS_Store
